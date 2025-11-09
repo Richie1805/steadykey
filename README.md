@@ -299,4 +299,3 @@ Always surface collisions and serialization errors in logs or metrics—they ind
 
 - Open an issue or discussion in the repository with payload samples and adapter details.
 - Pull requests are welcome—please include tests and update this README when the API surface changes.
-
